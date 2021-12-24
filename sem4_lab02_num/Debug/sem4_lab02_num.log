@@ -1,0 +1,17 @@
+﻿  sem4_lab02_num.c
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(16,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(16,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(16,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(16,17): message : this argument is used as a buffer size
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(23,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(23,20): message : consider using '%lld' in the format string
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(23,20): message : consider using '%I64d' in the format string
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(92,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(105,30): warning C4244: '=': conversion from 'long double' to 'long', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(118,27): warning C4244: '=': conversion from 'long double' to 'long', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(139,11): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(145,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(134,10): warning C4101: 'fractionArrayChar': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(129): warning C4716: 'convertDectoBinFraction': must return a value
+C:\Users\ajasa\source\repos\sem4_lab02_num\sem4_lab02_num.c(168): warning C4716: 'convertBintoDecFraction': must return a value
+  sem4_lab02_num.vcxproj -> C:\Users\ajasa\source\repos\sem4_lab02_num\Debug\sem4_lab02_num.exe

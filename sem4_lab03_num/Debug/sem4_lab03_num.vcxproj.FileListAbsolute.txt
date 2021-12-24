@@ -1,0 +1,2 @@
+C:\Users\ajasa\source\repos\sem4_lab03_num\Debug\sem4_lab03_num.exe
+C:\Users\ajasa\source\repos\sem4_lab03_num\Debug\sem4_lab03_num.pdb

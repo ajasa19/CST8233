@@ -1,0 +1,3 @@
+﻿  lab05.c
+C:\Users\ajasa\source\repos\sem4_lab05_num\lab05.c(60,10): warning C4476: 'printf' : unknown type field character 'r' in format specifier
+  sem4_lab05_num.vcxproj -> C:\Users\ajasa\source\repos\sem4_lab05_num\Debug\sem4_lab05_num.exe

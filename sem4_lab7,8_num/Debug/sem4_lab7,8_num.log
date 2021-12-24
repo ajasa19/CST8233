@@ -1,0 +1,15 @@
+﻿  lab8,8.c
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(86,37): warning C4020: 'getRange': too many actual parameters
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(86,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(106,37): warning C4020: 'getRange': too many actual parameters
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(106,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(150,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(154,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(173,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(188,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(193,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(208,9): warning C4476: 'printf' : unknown type field character 'D' in format specifier
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ajasa\source\repos\sem4_lab7,8_num\lab8,8.c(221,20): warning C4018: '<': signed/unsigned mismatch
+  sem4_lab7,8_num.vcxproj -> C:\Users\ajasa\source\repos\sem4_lab7,8_num\Debug\sem4_lab7,8_num.exe
